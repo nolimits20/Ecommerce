@@ -1,0 +1,6 @@
+.bhead{
+    background-image:url(/toys.jpg);
+    height: 80vh;
+    background-size: cover;
+    display: flex;
+}
